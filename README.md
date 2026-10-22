@@ -58,7 +58,7 @@ A Node.js and Playwright tool that helps organize Canadian job searches, filter 
 
 `JavaScript` · `Node.js` · `Playwright` · `Automated Testing`
 
-[View project](https://github.com/Yujiao139/indeed-application-assistant)
+[View project] https://github.com/Yujiao139/indeed-application-assistant
 
 ## Education
 
@@ -69,6 +69,6 @@ Dalhousie University
 
 I'm interested in opportunities involving software development, web development, IT support, and technical project coordination.
 
-- [LinkedIn](www.linkedin.com/in/yujiao-wang-8548b21aa)
+- [LinkedIn] www.linkedin.com/in/yujiao-wang-8548b21aa
 
 
