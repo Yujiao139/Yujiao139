@@ -1,13 +1,18 @@
-# Hi, I'm Jessie(Yujiao) Wang 👋
+# Hi, I'm Jessie (Yujiao) Wang 👋
 
-I'm a project coordinator and web administrator based in Halifax, Nova Scotia. I build and maintain websites, mobile applications, and backend services, with a focus on practical solutions, reliable delivery, and clear communication.
+I'm a technology professional based in Halifax, Nova Scotia, with experience across software development, website administration, IT support, and project coordination. I enjoy building practical solutions, keeping systems reliable, and helping teams turn requirements into results.
+
+## Career Focus
+
+- 💻 **Software & Web Development** — JavaScript, Python, Java, PHP, Dart, HTML/CSS, Flutter, Angular, WordPress, and REST APIs
+- 🛠️ **IT Support & Cybersecurity** — troubleshooting, deployment, Linux, Windows, DNS, SSL, Cloudflare, testing, and documentation
+- 🤝 **Project Coordination** — Agile teamwork, requirements, records, reporting, stakeholder support, and cross-functional communication
 
 ## About Me
 
-- 💻 Experience across web development, mobile applications, and backend services
 - 🌐 Web Developer and Website Administrator for IEEE conferences
-- 🛠️ Comfortable with deployment, troubleshooting, DNS, SSL, and ongoing website maintenance
-- 🤝 Experienced in Agile teams and cross-functional project coordination
+- 📱 Experience building cross-platform applications with Flutter and Firebase
+- ⚙️ Experience developing, deploying, and maintaining backend services
 - 📍 Based in Halifax, Canada
 
 ## Technical Skills
@@ -58,7 +63,7 @@ A Node.js and Playwright tool that helps organize Canadian job searches, filter 
 
 `JavaScript` · `Node.js` · `Playwright` · `Automated Testing`
 
-[View project] https://github.com/Yujiao139/indeed-application-assistant
+[View project](https://github.com/Yujiao139/indeed-application-assistant)
 
 ## Education
 
@@ -67,8 +72,6 @@ Dalhousie University
 
 ## Let's Connect
 
-I'm interested in opportunities involving software development, web development, IT support, and technical project coordination.
+I'm interested in opportunities involving software development, web development, IT support, cybersecurity, and technical project coordination.
 
-- [LinkedIn] www.linkedin.com/in/yujiao-wang-8548b21aa
-
-
+- [LinkedIn](https://www.linkedin.com/in/yujiao-wang-8548b21aa/)
